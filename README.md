@@ -7,14 +7,14 @@ I’m **Akshatha Hosamani**, a Computer Science Engineering student with a passi
 - 📚 **Learnings and experiments** – exploring Python, SQL, Power BI, Tableau, and cutting-edge visualization tools  
 - 🌱 **Inspiration and growth** – tips, tricks, and ideas for anyone striving to upskill and solve real-world problems creatively  
 
----
+
 
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/AkshathaHosamani) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-akshatha-hosamani) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:akshatahosamani@gmail.com)  
 
----
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
@@ -29,7 +29,7 @@ I’m **Akshatha Hosamani**, a Computer Science Engineering student with a passi
 ![Flask](https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white)  
 
----
+
 
 ## 🔥 Projects & Highlights
 - 📊 **HR Analytics Dashboard** – An interactive dashboard showing workforce demographics & attrition trends  
@@ -37,7 +37,7 @@ I’m **Akshatha Hosamani**, a Computer Science Engineering student with a passi
 - 🚀 **Resume Builder App (Kotlin, Android Studio)** – Dynamic resume generation for students & professionals  
 - 🧠 **Data Science Internship @ Prodigy Infotech** – Completed real-world data analysis projects  
 
----
+
 
 ## 📈 GitHub Stats
 <a href="https://github.com/AkshathaHosamani">
@@ -48,7 +48,6 @@ I’m **Akshatha Hosamani**, a Computer Science Engineering student with a passi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHosamani&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0f172a&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>  
 
----
 
 [![](https://visitcount.itsvg.in/api?id=AkshathaHosamani&icon=0&color=5)](https://visitcount.itsvg.in)
 
