@@ -35,7 +35,6 @@ I’m **Akshatha Hosamani**, a Computer Science Engineering student with a passi
 - 📊 **HR Analytics Dashboard** – An interactive dashboard showing workforce demographics & attrition trends  
 - 📚 **Book Recommendation System (ML + Flask)** – Personalized book suggestions using collaborative filtering  
 - 🚀 **Resume Builder App (Kotlin, Android Studio)** – Dynamic resume generation for students & professionals  
-- 🧠 **Data Science Internship @ Prodigy Infotech** – Completed real-world data analysis projects  
 
 
 
